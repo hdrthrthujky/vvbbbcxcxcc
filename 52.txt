@@ -1,0 +1,9 @@
+import cryptography
+
+def encrypt_data(data, public_key):
+    # 使用公钥加密数据
+    pass
+
+def decrypt_data(encrypted_data, private_key):
+    # 使用私钥解密数据
+    pass
